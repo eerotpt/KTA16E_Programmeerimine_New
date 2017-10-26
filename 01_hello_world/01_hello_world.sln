@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "random_while", "random_whil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checking_random_101", "checking_random_101\checking_random_101.csproj", "{6F85341E-1F32-4BE2-94F6-B7835D1A1A4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excuses", "excuses\excuses.csproj", "{5ED13348-783F-452A-9743-45B5C13AB430}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6F85341E-1F32-4BE2-94F6-B7835D1A1A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F85341E-1F32-4BE2-94F6-B7835D1A1A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F85341E-1F32-4BE2-94F6-B7835D1A1A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED13348-783F-452A-9743-45B5C13AB430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED13348-783F-452A-9743-45B5C13AB430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED13348-783F-452A-9743-45B5C13AB430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED13348-783F-452A-9743-45B5C13AB430}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
