@@ -12,8 +12,8 @@ namespace random_while
         {
             
             string entry;
-            int magic_Number = new Random().Next(101);
-            Console.Write("Quess a number from 1 to 99: ");
+            int magic_Number = new Random().Next(100);
+            Console.Write("Quess a number from 0 to 99: ");
 
             while (true)
             {

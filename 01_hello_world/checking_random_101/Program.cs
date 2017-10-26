@@ -10,10 +10,10 @@ namespace checking_random_101
     {
         static void Main(string[] args)
         {
-            //check random 0-100
+            //check random 1-100
             while (true)
             {   
-                int magic_Number = new Random().Next(1,101);// 0-100
+                int magic_Number = new Random().Next(1,101);// 1-100
                 Console.Write(" " + magic_Number);
                 System.Threading.Thread.Sleep(magic_Number+101);
                 if (magic_Number == 101)
